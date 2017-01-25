@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 得人的尊重与得神的喜悦
-category: 圣经
-tags: 天津和北京 复旦
+category: 生活 活下去
+tags: 无锡
 keywords: 
 description: 
 ---
